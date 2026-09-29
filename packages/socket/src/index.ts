@@ -8,11 +8,15 @@ import { initConfig } from "@razzia/socket/services/config"
 import Registry from "@razzia/socket/services/registry"
 import { Server as ServerIO } from "socket.io"
 
-export const io: Server = new ServerIO({
+const WS_PORT = 3001
+
+const io: Server = new ServerIO({
   path: "/ws",
 })
-
 initConfig()
+
+console.log(`Socket server running on port ${WS_PORT}`)
+io.listen(WS_PORT)
 
 const socketHandlers: SocketHandler[] = [
   managerSocketHandlers,
