@@ -1,0 +1,75 @@
+{
+  "id": "1790598732376-aTr8i6YO",
+  "subject": "Untitled Quizz",
+  "date": "2026-09-28T12:32:12.376Z",
+  "players": [
+    {
+      "username": "Krish",
+      "points": 1513,
+      "rank": 1
+    },
+    {
+      "username": "Keshav ",
+      "points": 1409,
+      "rank": 2
+    }
+  ],
+  "questions": [
+    {
+      "type": "single",
+      "question": "what is the PM of Nepal",
+      "answers": [
+        "KP sharma oli",
+        "keshav ",
+        "Sere",
+        "Deuba"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "playerAnswers": [
+        {
+          "playerName": "Keshav ",
+          "answerIds": [
+            1
+          ]
+        },
+        {
+          "playerName": "Krish",
+          "answerIds": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "question": "test ",
+      "answers": [
+        "test ",
+        "test "
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "playerAnswers": [
+        {
+          "playerName": "Keshav ",
+          "answerIds": [
+            0
+          ]
+        },
+        {
+          "playerName": "Krish",
+          "answerIds": [
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

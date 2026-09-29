@@ -1,0 +1,147 @@
+{
+  "id": "swEngQuiz2026",
+  "subject": "Software Engineering Quiz",
+  "questions": [
+    {
+      "question": "What does SDLC stand for?",
+      "answers": [
+        "Software Development Life Cycle",
+        "System Design Life Cycle",
+        "Software Debugging Life Cycle",
+        "Structured Development Language Cycle"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which software development model is known for sequential, non-iterative phases?",
+      "answers": [
+        "Waterfall",
+        "Agile",
+        "Scrum",
+        "DevOps"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What does API stand for?",
+      "answers": [
+        "Application Programming Interface",
+        "Applied Program Integration",
+        "Automated Process Interface",
+        "Application Process Integration"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which Git command creates a new branch and switches to it?",
+      "answers": [
+        "git branch new-branch",
+        "git checkout -b new-branch",
+        "git merge new-branch",
+        "git clone new-branch"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "What is the main goal of unit testing?",
+      "answers": [
+        "Test individual components in isolation",
+        "Test the entire system end-to-end",
+        "Validate user acceptance",
+        "Deploy code to production"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which HTTP status code indicates 'Not Found'?",
+      "answers": [
+        "200",
+        "301",
+        "404",
+        "500"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "In Agile, what is a sprint?",
+      "answers": [
+        "A short time-boxed iteration",
+        "A final product release",
+        "A long-term roadmap",
+        "A type of bug report"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which SOLID principle states that a class should have only one reason to change?",
+      "answers": [
+        "Single Responsibility Principle",
+        "Open/Closed Principle",
+        "Liskov Substitution Principle",
+        "Dependency Inversion Principle"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which of these are characteristics of good software design?",
+      "answers": [
+        "Low coupling",
+        "High cohesion",
+        "Tight coupling",
+        "Low cohesion"
+      ],
+      "solutions": [
+        0,
+        1
+      ],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "What is technical debt?",
+      "answers": [
+        "The cost of choosing quick solutions that require future rework",
+        "Money owed for cloud servers",
+        "The number of open bugs in a project",
+        "Time spent in daily stand-up meetings"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20
+    }
+  ]
+}
