@@ -1,4 +1,10 @@
 {
   "buildCommand": "pnpm build",
-  "outputDirectory": "packages/web/dist"
+  "outputDirectory": "packages/web/dist",
+  "rewrites": [
+    {
+      "source": "/manager/:path*",
+      "destination": "/index.html"
+    }
+  ]
 }
